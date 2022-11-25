@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.github-color:hover {
+  background-color: rgba(207, 181, 59, 0.7);
+
+  border-radius: 32px;
+  transition: 0.2s;
+}
+
+.github {
+  color: inherit;
+  border: none;
+}
+
+
+
+/* className='github-link'  link-dark */
