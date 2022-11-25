@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
@@ -27,4 +28,16 @@ code {
 
 
 
+/* 
+.bg-image {
+ background-image: url('./assets/jumbotron/images.jfif');
+ background-size: 100% 100%;
+ opacity: 75%;
+} */
+
+
+/* .navbar{
+ 
+  background-image: url('./assets/jumbotron/images.jfif');
+  } */
 /* className='github-link'  link-dark */
