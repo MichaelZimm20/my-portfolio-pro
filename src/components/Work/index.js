@@ -1,9 +1,20 @@
+// import react, bootstrap, react-bootstrap
 import React from 'react';
-import datenight from '../../assets/work-images/Picture3.png';
-import world from '../../assets/work-images/atw.png';
-import MERN from '../../assets/work-images/mern.jpg'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from 'react-bootstrap/Carousel';
+
+// import pictures 
+import datenight from '../../assets/work-images/Picture3.png';
+import world from '../../assets/work-images/atw.png';
+import MERN from '../../assets/work-images/mern.jpg';
+import runbuddy from '../../assets/work-images/runbuddy.png';
+
+// import Work functions 
+import DN from './datenight';
+import ATW from './atw'
+import TechBlog from './tech-blog';
+import RunBuddy from './runbuddy';
+
 
 function Work() {
     return (
@@ -17,10 +28,13 @@ function Work() {
    
           alt="First slide"
         />
-        
+   
         <Carousel.Caption>
               <h3>Date Night Generator</h3>
             <p>Created With: jQuery/JavaScript/CSS/Tailwind.js</p>
+        </Carousel.Caption>
+        <Carousel.Caption className='d-flex justify-content-end w-30 m-0 p-0 '>
+            <DN />
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -34,6 +48,9 @@ function Work() {
                     <h3>Around The World</h3>
                 <p>Created With: Node/Express.js/HandleBars.js</p>
           
+        </Carousel.Caption>
+        <Carousel.Caption className='d-flex justify-content-end w-30 m-0 p-0 '>
+            <ATW />
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -49,6 +66,26 @@ function Work() {
             Created With: Sequelize/Express/Heroku/MySQL2/bcrypt/express-handlebars
           </p>
         </Carousel.Caption>
+        <Carousel.Caption className='d-flex justify-content-end w-30 m-0 p-0 '>
+            <TechBlog />
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100 img-fluid opacity-75"
+          src={runbuddy}
+          alt="Third slide"
+        />
+
+        <Carousel.Caption>
+          <h3>Run Buddy</h3>
+          <p>
+            Created With: HTML/CSS
+          </p>
+        </Carousel.Caption>
+        <Carousel.Caption className='d-flex justify-content-end w-30 m-0 p-0 '>
+            <RunBuddy />
+        </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
         </main>
@@ -57,68 +94,3 @@ function Work() {
 
 export default Work;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{/* <div id="carouselExampleCaptions" className="carousel slide" data-bs-ride="carousel">
-  <div className="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div className="carousel-inner">
-    <div className="carousel-item active" data-bs-interval="10000">
-      <img src={datenight} className="d-block w-100" alt="datenight app" />
-      <div className="carousel-caption d-none d-md-block">
-        <h5>Date Night Generator</h5>
-        <p>jQuery/JavaScript/CSS/Tailwind.js</p>
-      </div>
-    </div>
-    <div className="carousel-item " data-bs-interval="2000">
-      <img src={world} className="d-block w-100" alt="around the world app" />
-      <div className="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
-      </div>
-    </div>
-    <div className="carousel-item">
-      <img src={MERN} className="d-block w-100" alt="mern stack app" />
-      <div className="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
-      </div>
-    </div>
-  </div>
-  <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span className="visually-hidden">Previous</span>
-  </button>
-  <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-    <span className="carousel-control-next-icon" aria-hidden="true"></span>
-    <span className="visually-hidden">Next</span>
-  </button>
-</div> */}
