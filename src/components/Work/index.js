@@ -8,12 +8,16 @@ import datenight from '../../assets/work-images/Picture3.png';
 import world from '../../assets/work-images/atw.png';
 import MERN from '../../assets/work-images/mern.jpg';
 import runbuddy from '../../assets/work-images/runbuddy.png';
+import employeeTracker from '../../assets/work-images/employeeTracker.jpg';
+import WeatherDashboard from '../../assets/work-images/weatherDashboard.jpg'
 
 // import Work functions 
 import DN from './datenight';
 import ATW from './atw'
 import TechBlog from './tech-blog';
 import RunBuddy from './runbuddy';
+import EmployeeTracker from './employeeTracker';
+import WeatherDash from './weatherdash';
 
 
 function Work() {
@@ -74,7 +78,7 @@ function Work() {
         <img
           className="d-block w-100 img-fluid opacity-75"
           src={runbuddy}
-          alt="Third slide"
+          alt="Fourth slide"
         />
 
         <Carousel.Caption>
@@ -85,6 +89,40 @@ function Work() {
         </Carousel.Caption>
         <Carousel.Caption className='d-flex justify-content-end w-30 m-0 p-0 '>
             <RunBuddy />
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100 img-fluid opacity-75"
+          src={employeeTracker}
+          alt="Fifth slide"
+        />
+
+        <Carousel.Caption>
+          <h3>Employee Tracker</h3>
+          <p>
+            Created With: Node.js/Inquirer/MySQL
+          </p>
+        </Carousel.Caption>
+        <Carousel.Caption className='d-flex justify-content-end w-30 m-0 p-0 '>
+            <EmployeeTracker />
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100 img-fluid opacity-75"
+          src={WeatherDashboard}
+          alt="Sixth slide"
+        />
+
+        <Carousel.Caption>
+          <h3>Weather Dashboard</h3>
+          <p>
+            Created With: Bootstrap/Font Awesome/jQuery/Moment.js/JavaScript/CSS/HTML
+          </p>
+        </Carousel.Caption>
+        <Carousel.Caption className='d-flex justify-content-end w-30 m-0 p-0 '>
+            <WeatherDash />
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
