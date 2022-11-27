@@ -1,5 +1,5 @@
 import React from 'react';
-import datenight from '../../assets/work-images/datenight.jpg';
+import datenight from '../../assets/work-images/Picture3.png';
 import world from '../../assets/work-images/atw.png';
 import MERN from '../../assets/work-images/mern.jpg'
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -7,18 +7,20 @@ import Carousel from 'react-bootstrap/Carousel';
 
 function Work() {
     return (
-        <main className='justify-content-center'>
+        <main>
 
-<Carousel className='mh-100'>
+<Carousel>
       <Carousel.Item>
-        <img
-          className="d-block w-100 opacity-75"
+            <img
+          className="d-block opacity-75 w-100 img-fluid"
           src={datenight}
+   
           alt="First slide"
         />
+        
         <Carousel.Caption>
-          <h3>Date Night Generator</h3>
-          <p>Created With: jQuery/JavaScript/CSS/Tailwind.js</p>
+              <h3>Date Night Generator</h3>
+            <p>Created With: jQuery/JavaScript/CSS/Tailwind.js</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -29,8 +31,9 @@ function Work() {
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h3>Around The World</h3>
+                <p>Created With: Node/Express.js/HandleBars.js</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -41,9 +44,9 @@ function Work() {
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
+          <h3>My Tech Blog</h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+            Created With: Sequelize/Express/Heroku/MySQL2/bcrypt/express-handlebars
           </p>
         </Carousel.Caption>
       </Carousel.Item>

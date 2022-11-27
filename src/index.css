@@ -26,7 +26,10 @@ code {
   border: none;
 }
 
-
+.move {
+  top: 110px;
+  left: -1px;
+}
 
 /* 
 .bg-image {
