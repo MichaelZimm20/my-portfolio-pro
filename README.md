@@ -15,8 +15,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   * [Questions](#questions)
 
 ## Installation 
-
-
+* npm i bootstrap, react-bootstrap
+* To install font-awesome with React [font-awesome](https://fontawesome.com/docs/web/use-with/react/)
+* Be sure to have all the right imports in the necessary files to ensure the npm packages work properly
 
 ## Usage
 ### Available Scripts
