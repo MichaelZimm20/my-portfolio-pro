@@ -1,8 +1,25 @@
-# Getting Started with Create React App
+# My-Porfolio-Pro
+
+## Description
+
+My portfolio is a refactor version of a original html/css to REACT built application. The application also utilizes react-bootstrap, bootstrap, font-awesome. It displays information about me, my most recent work and projects, contact page, and links to my Resume, Github and Linkedin.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+  ## Table of Contents 
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Important-Links](#Important-Links)
+  * [Questions](#questions)
+
+## Installation 
+
+
+
+## Usage
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -68,3 +85,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+ ## Important Links 
+* GitHub Link: 
+
+* Heroku Link: 
+
+
+## Questions 
+  If you have any questions or concerns, contact:
+  * GitHub: [MichaelZimm20](https://github.com/MichaelZimm20)
