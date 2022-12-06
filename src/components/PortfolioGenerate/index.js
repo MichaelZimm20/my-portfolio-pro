@@ -8,6 +8,7 @@ import About from '../About';
 import Nav from '../Nav';
 import Work from '../Work';
 import Contact from '../Contact';
+import Footer from '../Footer'
 import '../../index.css';
 
 
@@ -33,7 +34,7 @@ export default function PortfolioGenerate()  {
         <div>
              <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
              {renderPage()}
-           
+            <Footer />
         </div>
    
 

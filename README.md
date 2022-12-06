@@ -91,10 +91,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
  ## Important Links 
-* GitHub Link: 
+* GitHub Link: https://github.com/MichaelZimm20/my-portfolio-pro
 
-* Heroku Link: 
-
+* GitHub Pages Link: https://michaelzimm20.github.io/my-portfolio-pro/
 
 ## Questions 
   If you have any questions or concerns, contact:
