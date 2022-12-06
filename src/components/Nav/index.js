@@ -1,6 +1,11 @@
 // imports 
 import React from 'react';
 import Profile from '../Footer'
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
 function Nav( { currentPage, handlePageChange }) {
     return (
         // navigation bar
