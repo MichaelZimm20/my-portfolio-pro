@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio-pro",
   "version": "0.1.0",
-  "homepage": "https://MichaelZimm20.github.io/react-gh-pages",
+  "homepage": "https://MichaelZimm20.github.io/my-pro-portfolio",
   "private": true,
   "mdbreact": "git+https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design.git",
   "dependencies": {
