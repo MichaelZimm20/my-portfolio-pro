@@ -1,9 +1,8 @@
 {
   "name": "my-portfolio-pro",
   "version": "0.1.0",
-  "homepage": "https://michaelzimm20.github.io/my-pro-portfolio",
   "private": true,
-  "mdbreact": "git+https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design.git",
+  "homepage": "https://michaelzimm20.github.io/my-portfolio-pro",
   "dependencies": {
     "2": "^3.0.0",
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
@@ -17,7 +16,6 @@
     "babel-plugin-macros": "^3.1.0",
     "bootstrap": "^5.2.3",
     "font-awesome": "^4.7.0",
-    "mdbreact": "^5.2.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.6.0",
     "react-dom": "^18.2.0",
