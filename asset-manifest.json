@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/my-pro-portfolio/static/css/main.ed33c245.css",
-    "main.js": "/my-pro-portfolio/static/js/main.9c70971b.js",
-    "static/js/787.90fa468c.chunk.js": "/my-pro-portfolio/static/js/787.90fa468c.chunk.js",
-    "static/media/portfolio.png": "/my-pro-portfolio/static/media/portfolio.6eea61df1f6ca0ad4c1f.png",
-    "static/media/mern.jpg": "/my-pro-portfolio/static/media/mern.2664418daddb1a370d91.jpg",
-    "static/media/profilePic2.jpg": "/my-pro-portfolio/static/media/profilePic2.cff87da9b5bb723e9e5c.jpg",
-    "static/media/atw.png": "/my-pro-portfolio/static/media/atw.7381d6fb91038e45521e.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/my-pro-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/Picture3.png": "/my-pro-portfolio/static/media/Picture3.ff74760296d2ff2c89b6.png",
-    "static/media/fontawesome-webfont.eot": "/my-pro-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/my-pro-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/my-pro-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/employeeTracker.jpg": "/my-pro-portfolio/static/media/employeeTracker.a1cdb64439a39cca3444.jpg",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my-pro-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/runbuddy.png": "/my-pro-portfolio/static/media/runbuddy.8854d9b44c34c9ed09ae.png",
-    "static/media/weatherDashboard.jpg": "/my-pro-portfolio/static/media/weatherDashboard.3d1b815496507fb8cc1a.jpg",
-    "index.html": "/my-pro-portfolio/index.html",
-    "main.ed33c245.css.map": "/my-pro-portfolio/static/css/main.ed33c245.css.map",
-    "main.9c70971b.js.map": "/my-pro-portfolio/static/js/main.9c70971b.js.map",
-    "787.90fa468c.chunk.js.map": "/my-pro-portfolio/static/js/787.90fa468c.chunk.js.map"
+    "main.css": "/my-portfolio-pro/static/css/main.c9883d9b.css",
+    "main.js": "/my-portfolio-pro/static/js/main.49a55726.js",
+    "static/js/787.90fa468c.chunk.js": "/my-portfolio-pro/static/js/787.90fa468c.chunk.js",
+    "static/media/portfolio.png": "/my-portfolio-pro/static/media/portfolio.6eea61df1f6ca0ad4c1f.png",
+    "static/media/mern.jpg": "/my-portfolio-pro/static/media/mern.2664418daddb1a370d91.jpg",
+    "static/media/profilePic2.jpg": "/my-portfolio-pro/static/media/profilePic2.cff87da9b5bb723e9e5c.jpg",
+    "static/media/atw.png": "/my-portfolio-pro/static/media/atw.7381d6fb91038e45521e.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/my-portfolio-pro/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Picture3.png": "/my-portfolio-pro/static/media/Picture3.ff74760296d2ff2c89b6.png",
+    "static/media/fontawesome-webfont.eot": "/my-portfolio-pro/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/my-portfolio-pro/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/my-portfolio-pro/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/employeeTracker.jpg": "/my-portfolio-pro/static/media/employeeTracker.a1cdb64439a39cca3444.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my-portfolio-pro/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/runbuddy.png": "/my-portfolio-pro/static/media/runbuddy.8854d9b44c34c9ed09ae.png",
+    "static/media/weatherDashboard.jpg": "/my-portfolio-pro/static/media/weatherDashboard.3d1b815496507fb8cc1a.jpg",
+    "index.html": "/my-portfolio-pro/index.html",
+    "main.c9883d9b.css.map": "/my-portfolio-pro/static/css/main.c9883d9b.css.map",
+    "main.49a55726.js.map": "/my-portfolio-pro/static/js/main.49a55726.js.map",
+    "787.90fa468c.chunk.js.map": "/my-portfolio-pro/static/js/787.90fa468c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed33c245.css",
-    "static/js/main.9c70971b.js"
+    "static/css/main.c9883d9b.css",
+    "static/js/main.49a55726.js"
   ]
 }
