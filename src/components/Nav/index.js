@@ -7,7 +7,7 @@ import 'bootstrap/dist/js/bootstrap.bundle';
 
 
 
-function Nav( { currentPage, handlePageChange }) {
+function Nav( { currentPage,  }) {
     var sectionStyle = {
         backgroundImage: `url(${landingPic})`
      }
