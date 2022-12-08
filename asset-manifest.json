@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio-pro/static/css/main.c9883d9b.css",
-    "main.js": "/my-portfolio-pro/static/js/main.49a55726.js",
+    "main.css": "/my-portfolio-pro/static/css/main.aa42b8f8.css",
+    "main.js": "/my-portfolio-pro/static/js/main.69c6a29f.js",
     "static/js/787.90fa468c.chunk.js": "/my-portfolio-pro/static/js/787.90fa468c.chunk.js",
     "static/media/portfolio.png": "/my-portfolio-pro/static/media/portfolio.6eea61df1f6ca0ad4c1f.png",
     "static/media/mern.jpg": "/my-portfolio-pro/static/media/mern.2664418daddb1a370d91.jpg",
@@ -14,15 +14,16 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/my-portfolio-pro/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/employeeTracker.jpg": "/my-portfolio-pro/static/media/employeeTracker.a1cdb64439a39cca3444.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my-portfolio-pro/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/charlottenav.jpg": "/my-portfolio-pro/static/media/charlottenav.38eb7b959f44d7c3b0a3.jpg",
     "static/media/runbuddy.png": "/my-portfolio-pro/static/media/runbuddy.8854d9b44c34c9ed09ae.png",
     "static/media/weatherDashboard.jpg": "/my-portfolio-pro/static/media/weatherDashboard.3d1b815496507fb8cc1a.jpg",
     "index.html": "/my-portfolio-pro/index.html",
-    "main.c9883d9b.css.map": "/my-portfolio-pro/static/css/main.c9883d9b.css.map",
-    "main.49a55726.js.map": "/my-portfolio-pro/static/js/main.49a55726.js.map",
+    "main.aa42b8f8.css.map": "/my-portfolio-pro/static/css/main.aa42b8f8.css.map",
+    "main.69c6a29f.js.map": "/my-portfolio-pro/static/js/main.69c6a29f.js.map",
     "787.90fa468c.chunk.js.map": "/my-portfolio-pro/static/js/787.90fa468c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9883d9b.css",
-    "static/js/main.49a55726.js"
+    "static/css/main.aa42b8f8.css",
+    "static/js/main.69c6a29f.js"
   ]
 }
