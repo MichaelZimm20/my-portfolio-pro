@@ -10,6 +10,7 @@ import MERN from '../../assets/work-images/mern.jpg';
 import runbuddy from '../../assets/work-images/runbuddy.png';
 import employeeTracker from '../../assets/work-images/employeeTracker.jpg';
 import WeatherDashboard from '../../assets/work-images/weatherDashboard.jpg'
+import cuttingEdge from '../../assets/work-images/projectpic4.jpg';
 
 // import Work functions 
 import DN from './datenight';
@@ -18,6 +19,7 @@ import TechBlog from './tech-blog';
 import RunBuddy from './runbuddy';
 import EmployeeTracker from './employeeTracker';
 import WeatherDash from './weatherdash';
+import CuttingEdge from './cuttingEdge';
 
 
 function Work() {
@@ -123,6 +125,24 @@ function Work() {
         </Carousel.Caption>
         <Carousel.Caption className='d-flex justify-content-end w-30 m-0 p-0 '>
             <WeatherDash />
+        </Carousel.Caption>
+      </Carousel.Item>
+
+      <Carousel.Item>
+        <img
+          className="d-block w-100 img-fluid opacity-75"
+          src={cuttingEdge}
+          alt="Seventh slide"
+        />
+
+        <Carousel.Caption>
+          <h3>Cutting Edge Pro</h3>
+          <p>
+            Created With: MERN STACK/REACT/Cloudinary/Stripe/JavaScript/CSS/HTML
+          </p>
+        </Carousel.Caption>
+        <Carousel.Caption className='d-flex justify-content-end w-30 m-0 p-0 '>
+            <CuttingEdge />
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
