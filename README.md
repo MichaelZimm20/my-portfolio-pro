@@ -100,6 +100,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 * GitHub Pages Link: https://michaelzimm20.github.io/my-portfolio-pro/
 
-## Questions 
+## Questions  
   If you have any questions or concerns, contact:
   * GitHub: [MichaelZimm20](https://github.com/MichaelZimm20)
