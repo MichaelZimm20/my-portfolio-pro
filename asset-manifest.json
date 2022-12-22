@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio-pro/static/css/main.aa42b8f8.css",
-    "main.js": "/my-portfolio-pro/static/js/main.69c6a29f.js",
+    "main.js": "/my-portfolio-pro/static/js/main.fed02260.js",
     "static/js/787.90fa468c.chunk.js": "/my-portfolio-pro/static/js/787.90fa468c.chunk.js",
     "static/media/portfolio.png": "/my-portfolio-pro/static/media/portfolio.6eea61df1f6ca0ad4c1f.png",
     "static/media/mern.jpg": "/my-portfolio-pro/static/media/mern.2664418daddb1a370d91.jpg",
@@ -9,6 +9,7 @@
     "static/media/atw.png": "/my-portfolio-pro/static/media/atw.7381d6fb91038e45521e.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/my-portfolio-pro/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Picture3.png": "/my-portfolio-pro/static/media/Picture3.ff74760296d2ff2c89b6.png",
+    "static/media/projectpic4.jpg": "/my-portfolio-pro/static/media/projectpic4.e978255608c03e05d720.jpg",
     "static/media/fontawesome-webfont.eot": "/my-portfolio-pro/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/my-portfolio-pro/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/my-portfolio-pro/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
@@ -19,11 +20,11 @@
     "static/media/weatherDashboard.jpg": "/my-portfolio-pro/static/media/weatherDashboard.3d1b815496507fb8cc1a.jpg",
     "index.html": "/my-portfolio-pro/index.html",
     "main.aa42b8f8.css.map": "/my-portfolio-pro/static/css/main.aa42b8f8.css.map",
-    "main.69c6a29f.js.map": "/my-portfolio-pro/static/js/main.69c6a29f.js.map",
+    "main.fed02260.js.map": "/my-portfolio-pro/static/js/main.fed02260.js.map",
     "787.90fa468c.chunk.js.map": "/my-portfolio-pro/static/js/787.90fa468c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa42b8f8.css",
-    "static/js/main.69c6a29f.js"
+    "static/js/main.fed02260.js"
   ]
 }
