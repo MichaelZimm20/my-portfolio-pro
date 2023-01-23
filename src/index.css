@@ -135,6 +135,13 @@ opacity: 0.;
 background-image: radial-gradient(#AD6A6C 1.5px, #3a405a 1.5px);
 background-size: 30px 30px;
 }
+
+.icon {
+  
+  margin-left: 60px
+ 
+  }
+
 .lg-img {
   width: 2560px;
   height: 1440px;

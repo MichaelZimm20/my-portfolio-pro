@@ -16,6 +16,7 @@ function Footer() {
          {/* linkedin quick link */}
          <a href="https://www.linkedin.com/in/michael-zimmerman-jr-8b859169/" className='mx-2 ' target={'_blank'} rel="noreferrer" alt='LinkedIn' data-toggle="tooltip" data-placement="top" title="LinkedIn">
           <FontAwesomeIcon icon={brands('linkedin')} style={{ width: '32px', height: '32px'}} />
+          
         </a>
        </section>
     )
