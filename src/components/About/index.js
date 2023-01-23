@@ -102,18 +102,13 @@ function About() {
                             <h6 className='card-title d-flex justify-content-center shadow-sm p-2 bg-transparent rounded text-white'>Bachelor's in Computer Science</h6>
                             <div className='card-body shadow-none bg-gradient rounded text-white'>
                                 <section className='d-flex flex-row justify-content-around'>
-
                                     <ul className='list-group list-group-flush rounded w-25' >
                                         <h4>Areas of Study</h4>
                                         <li className='list-group-item bg-transparent text-white shadow-sm fun-facts'>Object-Oriented Programming</li>
                                         <li className='list-group-item bg-light bg-gradient bg-opacity-50 text-warning fun-facts'>Java</li>
                                         <li className='list-group-item bg-transparent text-white shadow-sm fun-facts'>Web Development</li>
                                         <li className='list-group-item bg-light bg-gradient bg-opacity-50 text-warning fun-facts' >Python</li>
-
                                     </ul>
-
-
-
                                 </section>
                             </div>
                             <div className='card-footer d-flex justify-content-center shadow-sm  bg-transparent rounded text-white'><h6>Aug 2013 - May 2017</h6></div>
@@ -124,7 +119,6 @@ function About() {
                             <h6 className='card-title d-flex justify-content-center shadow-sm p-2 bg-transparent rounded text-white'>Experience in Software Engineering</h6>
                             <div className='card-body shadow-none bg-gradient rounded text-white'>
                                 <section className='d-flex flex-row justify-content-around'>
-
                                     <ul className='list-group list-group-flush rounded w-25' >
                                         <h4>Areas of Study</h4>
                                         <li className='list-group-item bg-transparent text-white shadow-sm fun-facts'>Test-Driven Development</li>
@@ -134,18 +128,31 @@ function About() {
                                         <li className='list-group-item bg-transparent text-white shadow-sm fun-facts' >Project Process Quality Management</li>
                                         <li className='list-group-item bg-light bg-gradient bg-opacity-50 text-warning fun-facts' >Programming</li>
                                     </ul>
-
-
-
                                 </section>
                             </div>
                             <div className='card-footer d-flex justify-content-center shadow-sm  bg-transparent rounded text-white'><h6>August 2019 - December 2020</h6></div>
                         </div>
-
-
-
                     </div>
+                </div>
+            </div>
 
+            <div className='row g-0  w-100 pattern '>
+                <div className='col-md-3'>
+                    <h1 className='w-50 p-2 border-bottom border-secondary d-flex justify-content-center fun-title1' id='about'>Skills</h1>
+                </div>
+                <div className='col-md-8 mt-3 mx-auto d-flex justify-content-center'>
+                    <div className='card-body ms-3'>
+                        <p className='card-text mt-4 font fs-5  .bg-light bg-gradient'>
+                            <h2 className='fun-facts'> Languages:</h2><br />
+                            JavaScript, HTML/CSS, SQL, MySQL, NoSQL, Java, OOP<br /><br />
+                            <h2 className='fun-facts'> Other Skills:
+                            </h2>
+
+                            Technology Help Desk, User-Support, Troubleshooting, Microsoft 365, JEST, Webpacks,<br />
+                            Adobe Creative Cloud, Google Console, Software and OS Installation, Hardware<br />
+                            PowerShell, DBMS, Internal Ticketing System, Microsoft Office, G-suite, Technical Support Documentation, VSCode
+                        </p>
+                    </div>
                 </div>
 
             </div>
