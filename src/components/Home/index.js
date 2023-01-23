@@ -12,18 +12,21 @@ function Home({ handlePageChange}) {
         backgroundImage: `url(${landingPic})`
      }
     return (
-        <section  >
-            <div className='col-12 vh-100 img-fluid position-relative'>
+        <div style={{
+            backgroundImage: `url(${landingPic})`,
+            width: '2560px'
+        }}>
+            <div className='col-12 vh-100 img-fluid position-relative' >
                 
                 <a href="#about" onClick={() => handlePageChange('About')}>
-                <Button className='col-12 vh-100 img-fluid border-0 rounded-0' style={sectionStyle} variant="secondary"><span className='btn post move-bg col-md-3 fs-5'>Explore</span></Button>{' '}
+                <Button className='vh-100 vw-100 border-0 rounded-0 lg-img' style={sectionStyle} variant="secondary"><span className='btn post move-bg col-md-3 fs-5'>Explore</span></Button>{' '}
                 </a>
                 {/* <img src={landingPic} alt='landing page'/> */}
                 
                 
           
             </div>
-        </section>
+        </div>
     );
 };
 
