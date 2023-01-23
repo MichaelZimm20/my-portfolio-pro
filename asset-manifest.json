@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio-pro/static/css/main.aa42b8f8.css",
-    "main.js": "/my-portfolio-pro/static/js/main.fed02260.js",
+    "main.css": "/my-portfolio-pro/static/css/main.a851d893.css",
+    "main.js": "/my-portfolio-pro/static/js/main.e4ee657a.js",
     "static/js/787.90fa468c.chunk.js": "/my-portfolio-pro/static/js/787.90fa468c.chunk.js",
     "static/media/portfolio.png": "/my-portfolio-pro/static/media/portfolio.6eea61df1f6ca0ad4c1f.png",
     "static/media/mern.jpg": "/my-portfolio-pro/static/media/mern.2664418daddb1a370d91.jpg",
@@ -19,12 +19,12 @@
     "static/media/runbuddy.png": "/my-portfolio-pro/static/media/runbuddy.8854d9b44c34c9ed09ae.png",
     "static/media/weatherDashboard.jpg": "/my-portfolio-pro/static/media/weatherDashboard.3d1b815496507fb8cc1a.jpg",
     "index.html": "/my-portfolio-pro/index.html",
-    "main.aa42b8f8.css.map": "/my-portfolio-pro/static/css/main.aa42b8f8.css.map",
-    "main.fed02260.js.map": "/my-portfolio-pro/static/js/main.fed02260.js.map",
+    "main.a851d893.css.map": "/my-portfolio-pro/static/css/main.a851d893.css.map",
+    "main.e4ee657a.js.map": "/my-portfolio-pro/static/js/main.e4ee657a.js.map",
     "787.90fa468c.chunk.js.map": "/my-portfolio-pro/static/js/787.90fa468c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa42b8f8.css",
-    "static/js/main.fed02260.js"
+    "static/css/main.a851d893.css",
+    "static/js/main.e4ee657a.js"
   ]
 }
