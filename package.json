@@ -2,7 +2,7 @@
   "name": "my-portfolio-pro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MichaelZimm20.github.io/my-portfolio-pro",
+  "homepage": "https://michaelzimm20.github.io/my-portfolio-pro/",
   "dependencies": {
     "2": "^3.0.0",
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
