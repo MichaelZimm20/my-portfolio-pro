@@ -32,7 +32,7 @@ function Nav( { currentPage, handlePageChange }) {
                             <button className={`nav-link fs-5 text-light border-0 bg-transparent ${currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}`}  onClick={() => handlePageChange('Contact')}>Contact</button>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link fs-5 text-light" href="https://docs.google.com/document/d/1OoAlbN4zas612b85jpLYJFdgJ_DejLy3/edit?usp=share_link&ouid=105757977989352707580&rtpof=true&sd=true" target={'_blank'} rel="noreferrer">Resume</a>
+                            <a className="nav-link fs-5 text-light" href="https://drive.google.com/file/d/14pwc0pg6szkVCs7Mil0dtTcxoPU43ABh/view?usp=share_link" target={'_blank'} rel="noreferrer">Resume</a>
                         </li>
                     </ul>
                 </div>
